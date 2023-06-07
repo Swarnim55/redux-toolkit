@@ -1,2 +1,1 @@
-# redux-toolkit
-Learning Redux Toolkit
+# Redux Toolkit (RTK) for Global State Management
